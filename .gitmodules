@@ -1,0 +1,3 @@
+[submodule "workshop-dirty-data"]
+	path = workshop-dirty-data
+	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshop-dirty-data.git
