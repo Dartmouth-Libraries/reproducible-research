@@ -1,3 +1,6 @@
 [submodule "workshop-dirty-data"]
 	path = workshop-dirty-data
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshop-dirty-data.git
+[submodule "intro-to-machine-learning-with-scikit-learn"]
+	path = intro-to-machine-learning-with-scikit-learn
+	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/intro-to-machine-learning-with-scikit-learn.git
