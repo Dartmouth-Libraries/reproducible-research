@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
-""" This script copies all Jupyter notebooks from the submodules into the user space 
+""" 
+This script copies all subfolders into the user space 
 
 This is only required on the Dartmouth JupyterHub, where the repo is mounted as read-only.
 """
@@ -12,7 +13,7 @@ from typing import List
 
 
 def script_location() -> Path:
-    """ Returns the location of the main script """
+    """ Returns the location of this script (i.e. the repo root)"""
     return Path(__file__).parent.resolve()
 
 
