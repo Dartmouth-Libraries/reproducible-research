@@ -8,7 +8,7 @@ Reproducible Research materials, provided by the Dartmouth Library and Dartmouth
 ## How to use this repository
 This repository contains materials used in the workshops offered by Dartmouth's Reproducible Research group. You are free to download or fork it and use the materials provided according to the licensing terms.
 
-Furthermore, this repository is integrated into [Dartmouth's JupyterHub](https://jhub.dartmouth.edu). You can access the materials and run any contained Jupyter Notebooks directly by going to [JupyterHub](https://jhub.dartmouth.edu), starting a server and choosing ``RR-Workshops`` as your server option.
+Furthermore, this repository is integrated into [Dartmouth's JupyterHub](https://jhub.dartmouth.edu). You can access the materials and run any contained Jupyter Notebooks directly by going to [JupyterHub](https://jhub.dartmouth.edu), starting a server and choosing ``Reproducible Research Workshops`` as your server option.
 
 
 ## How to contribute
