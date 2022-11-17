@@ -65,7 +65,7 @@ def set_new_root(path: Path, old_root: Path, new_root: Path) -> Path:
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('-v', '--verbose', help='increase output verbosity',
-                        action='store_true')
+                        action='store_false')
     args = parser.parse_args()
 
     print('Setting up user home folder...')
