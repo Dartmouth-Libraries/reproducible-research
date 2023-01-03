@@ -4,3 +4,6 @@
 [submodule "intro-to-machine-learning-with-scikit-learn"]
 	path = machine-learning/intro-to-machine-learning-with-scikit-learn
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/machine-learning/intro-to-machine-learning-with-scikit-learn
+[submodule "text-analysis/text-analysis-with-python"]
+	path = text-analysis/text-analysis-with-python
+	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/text-analysis/text-analysis-with-python.git
