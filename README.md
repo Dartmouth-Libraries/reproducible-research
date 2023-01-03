@@ -20,10 +20,15 @@ If you would like your materials added, they need to live in a git repository (e
 1. Clone this repository (or fork it first).
 2. Add your workshop as a submodule by running the following command from this repo's root directory:
 ```
-git submodule add <your-repo-clone-link>
+git submodule add <your-repo-clone-link> <path-within-this-repo>
+```
+Example:
+Let's say you want to add a new workshop called `My Data Science Workshop` to this repo's subfolder `data-science`. Let's also say your clone link is `git@git.dartmouth.edu:my-data-science-workshop.git`. The command to add it would therefore be:
+```
+git submodule add git@git.dartmouth.edu:my-data-science-workshop.git data-science/my-data-science-workshop
 ```
 3. Commit and push the change.
-4. Open a merge request.
+4. Open a merge request (only if you are working on a fork).
 
 ---
 **NOTE**
