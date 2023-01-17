@@ -42,7 +42,7 @@ You once again have two options: [Contact Simon](mailto:simon.stone@dartmouth.ed
 
 1. From the repo root:
 ```
-git submodule update --remote --merge <path-to-your-submodule>
+git submodule update --remote --merge --recursive <path-to-your-submodule>
 ```
 2. Commit and push the change.
 3. Open a merge request.
