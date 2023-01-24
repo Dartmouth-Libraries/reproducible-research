@@ -26,9 +26,11 @@ def subfolders(source: Path) -> List[Path]:
     return [x for x in source.iterdir() if x.is_dir() and not x.name.startswith('.')]
 
 
-def copy_new(source: Path, destination: Path, verbose: bool = False):
+def copy(source: Path, destination: Path,
+         verbose: bool = False,
+         preserve: bool = False):
     """
-    Copies a directory tree to a new root but does not overwrite existing files
+    Copies a directory tree to a new root
     """
     for file in source.rglob('*.*'):
         if file.parent == source:
@@ -40,9 +42,9 @@ def copy_new(source: Path, destination: Path, verbose: bool = False):
                 print(f'Skipping hidden file {file}.')
             continue
         new_path = set_new_root(file, source, destination)
-        if new_path.exists():
+        if preserve and new_path.exists():
             if verbose:
-                print(f'{new_path} already exists. Skipping.')
+                print(f'Preserving existing file {new_path}. Skipping.')
             continue
         new_path.parents[0].mkdir(parents=True, exist_ok=True)
         shutil.copy(file, new_path)
@@ -64,11 +66,16 @@ def set_new_root(path: Path, old_root: Path, new_root: Path) -> Path:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('-v', '--verbose', help='increase output verbosity',
+    parser.add_argument('-v', '--verbose', help='Increase output verbosity',
                         action='store_false')
+    parser.add_argument('-p', '--preserve',
+                        help='Preserve existing files in user space',
+                        action='store_true')
     args = parser.parse_args()
 
     print('Setting up user home folder...')
     cwd = script_location()
-    copy_new(cwd, Path.home() / 'RR-workshops', verbose=args.verbose)
+    copy(cwd, Path.home() / 'RR-workshops',
+         verbose=args.verbose,
+         preserve=args.preserve)
     print('...done.')
