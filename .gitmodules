@@ -10,3 +10,6 @@
 [submodule "machine-learning/intro-to-pytorch"]
 	path = machine-learning/intro-to-pytorch
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/machine-learning/intro-to-pytorch.git
+[submodule "infrastructure/distributed-computing-with-python-and-mpi"]
+	path = infrastructure/distributed-computing-with-python-and-mpi
+	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/infrastructure/distributed-computing-with-python-and-mpi.git
