@@ -16,3 +16,6 @@
 [submodule "infrastructure/intro-to-python"]
 	path = infrastructure/intro-to-python
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/intro-to-python.git
+[submodule "infrastructure/classy-code"]
+	path = infrastructure/classy-code
+	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/infrastructure/classy-code.git
