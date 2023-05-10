@@ -19,3 +19,12 @@
 [submodule "infrastructure/classy-code"]
 	path = infrastructure/classy-code
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/infrastructure/classy-code.git
+[submodule "data-science/gentle-intro-to-statistics"]
+	path = data-science/gentle-intro-to-statistics
+	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/data-science/gentle-intro-to-statistics.git
+[submodule "machine-learning/gentle-intro-to-regression"]
+	path = machine-learning/gentle-intro-to-regression
+	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/machine-learning/gentle-intro-to-regression.git
+[submodule "machine-learning/gentle-intro-to-classification"]
+	path = machine-learning/gentle-intro-to-classification
+	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/machine-learning/gentle-intro-to-classification.git
