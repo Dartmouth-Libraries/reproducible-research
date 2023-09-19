@@ -28,3 +28,6 @@
 [submodule "machine-learning/gentle-intro-to-classification"]
 	path = machine-learning/gentle-intro-to-classification
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/machine-learning/gentle-intro-to-classification.git
+[submodule "infrastructure/jupyter-notebooks-101"]
+	path = infrastructure/jupyter-notebooks-101
+	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/infrastructure/jupyter-notebooks-101.git
