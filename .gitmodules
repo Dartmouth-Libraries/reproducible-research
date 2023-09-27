@@ -11,13 +11,13 @@
 	path = machine-learning/intro-to-pytorch
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/machine-learning/intro-to-pytorch.git
 [submodule "infrastructure/distributed-computing-with-python-and-mpi"]
-	path = infrastructure/distributed-computing-with-python-and-mpi
+	path = computational-tools/distributed-computing-with-python-and-mpi
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/infrastructure/distributed-computing-with-python-and-mpi.git
 [submodule "infrastructure/intro-to-python"]
-	path = infrastructure/intro-to-python
+	path = computational-tools/intro-to-python
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/intro-to-python.git
 [submodule "infrastructure/classy-code"]
-	path = infrastructure/classy-code
+	path = computational-tools/classy-code
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/infrastructure/classy-code.git
 [submodule "data-science/gentle-intro-to-statistics"]
 	path = data-science/gentle-intro-to-statistics
@@ -29,5 +29,5 @@
 	path = machine-learning/gentle-intro-to-classification
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/machine-learning/gentle-intro-to-classification.git
 [submodule "infrastructure/jupyter-notebooks-101"]
-	path = infrastructure/jupyter-notebooks-101
+	path = computational-tools/jupyter-notebooks-101
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/infrastructure/jupyter-notebooks-101.git
