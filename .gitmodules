@@ -31,3 +31,6 @@
 [submodule "infrastructure/jupyter-notebooks-101"]
 	path = computational-tools/jupyter-notebooks-101
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/computational-tools/jupyter-notebooks-101.git
+[submodule "apis-in-python"]
+	path = computational-tools/apis-in-python
+	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/computational-tools/apis-in-python.git
