@@ -65,10 +65,10 @@ You may also ask collaborators / students to download the data onto their own co
 
 1. First, add a cell at the top of your Colab notebook that contains:
 
-```
-from google.colab import files
-files.upload()
-```
+    ```
+    from google.colab import files
+    files.upload()
+    ```
 
 2. Share your data with your partners / students (i.e. through link to Google Drive folder)
 2. Instruct them to download the files onto their own computer and save it in a folder created just for this workshop.
