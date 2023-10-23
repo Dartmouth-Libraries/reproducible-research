@@ -35,17 +35,18 @@ The remainder of this guide will outline three principle ways you and your stude
     ```
 					
 	+ You can now access the data from the unzipped version of the folder using the folder directory on the left side of your Colab notebook
-        + *Note:* For any code cells in your notebook that imports this data using relative or absolute paths, you may need to modify these filepaths to reflect the location of this data relative within your Colab notebook. 
+        + *Note:* For any code cells in your notebook that import this data using relative or absolute paths, you may need to modify these filepaths to reflect the location of this data relative to your Colab notebook. 
 
 ## Option 2: Importing Data from Dropbox into Colab
 
 1. Open Dropbox and navigate to the folder or file you want to share
-2. Right-click / Command-click the folder and select copy link
+2. Right-click / Command-click the folder and select **Copy Link**.
 3. In Colab, insert the following into a cell to import an entire folder:
 	
     ```
-    !wget -O [dropbox link]`
+    !wget -O [dropbox link]
     ```
+
 4. To import one file at  a time:
 
     ```
@@ -70,14 +71,14 @@ You may also ask collaborators / students to download the data onto their own co
     files.upload()
     ```
 
-2. Share your data with your partners / students (i.e. through link to Google Drive folder)
+2. Share your data with your partners / students (i.e. through a link to a Google Drive folder)
 2. Instruct them to download the files onto their own computer and save it in a folder created just for this workshop.
 1. Then, have them run the code cell you added in Step #1 above (this section). A window should appear allowing them to find and select files to upload into Colab.
 
 ## Final Step: Share the Notebook
 
 1. Click on the **Share** button at the top of your Colab notebook and then:
-    + Adjust the permissions to view your Colab notebook so that your students / collaborators can use the notebook
+    + Adjust the permissions to view your Colab notebook so that your students / collaborators can use the notebook 
     + Copy the link to the notebook and share this with them
 
 ## Quick Review
@@ -99,7 +100,7 @@ To modify a Jupyter Notebook for use in Colab, simply:
     ```
 
 4. Adjust the permissions to your notebook and share the link with your students / collaborators.
-5. Test your Colab Notebook by hitting `Runtime --> Run All` to ensure that everything works as expected (*Note*: Some elements of Jupyter Notebooks appear different in Colab than they do in Jupyter or other platforms).
+5. Test your Colab Notebook by hitting `Runtime --> Run All` to ensure that everything works as expected (*Note*: Some elements of Jupyter Notebooks appear different in Colab than they do in Jupyter or other platforms). 
 
 
 *This guide created by Jeremy Mikecz, Research Data Services, Dartmouth Library*
