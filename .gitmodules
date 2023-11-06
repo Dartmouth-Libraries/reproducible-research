@@ -34,3 +34,6 @@
 [submodule "apis-in-python"]
 	path = computational-tools/apis-in-python
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/computational-tools/apis-in-python.git
+[submodule "text-analysis/chatty-documents"]
+	path = text-analysis/chatty-documents
+	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/text-analysis/chatty-documents.git
