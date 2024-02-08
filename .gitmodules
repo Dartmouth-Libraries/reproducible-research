@@ -40,3 +40,6 @@
 [submodule "text-analysis/computational-text-analysis-week"]
 	path = text-analysis/computational-text-analysis-week
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/text-analysis/computational-text-analysis-week.git
+[submodule "computational-tools/data-viz-matplotlib"]
+	path = computational-tools/data-viz-matplotlib
+	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/computational-tools/data-viz-matplotlib.git
