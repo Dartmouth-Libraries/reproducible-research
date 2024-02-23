@@ -43,3 +43,6 @@
 [submodule "computational-tools/data-viz-matplotlib"]
 	path = computational-tools/data-viz-matplotlib
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/computational-tools/data-viz-matplotlib.git
+[submodule "computational-tools/data-viz-seaborn"]
+	path = computational-tools/data-viz-seaborn
+	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/computational-tools/data-viz-seaborn.git
