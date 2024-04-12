@@ -46,3 +46,6 @@
 [submodule "computational-tools/data-viz-seaborn"]
 	path = computational-tools/data-viz-seaborn
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/computational-tools/data-viz-seaborn.git
+[submodule "computational-tools/beyond-hello-world"]
+	path = computational-tools/beyond-hello-world
+	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/computational-tools/beyond-hello-world.git
