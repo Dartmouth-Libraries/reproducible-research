@@ -49,3 +49,6 @@
 [submodule "computational-tools/beyond-hello-world"]
 	path = computational-tools/beyond-hello-world
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/computational-tools/beyond-hello-world.git
+[submodule "data-science/bibliometrics"]
+	path = data-science/bibliometrics
+	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/data-science/bibliometrics-workshops.git
