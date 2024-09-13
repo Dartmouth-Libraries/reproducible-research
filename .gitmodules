@@ -1,54 +1,54 @@
 [submodule "workshop-dirty-data"]
 	path = data-science/workshop-dirty-data
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/data-science/dirty-data.git
+	url = git@github.com:Dartmouth-Libraries/dirty-data.git
 [submodule "intro-to-machine-learning-with-scikit-learn"]
 	path = machine-learning/intro-to-machine-learning-with-scikit-learn
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/machine-learning/intro-to-machine-learning-with-scikit-learn
+	url = git@github.com:Dartmouth-Libraries/intro-to-machine-learning-with-scikit-learn
 [submodule "text-analysis/text-analysis-with-python"]
 	path = text-analysis/text-analysis-with-python
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/text-analysis/text-analysis-with-python.git
+	url = git@github.com:Dartmouth-Libraries/Text-Analysis-with-Python.git
 [submodule "machine-learning/intro-to-pytorch"]
 	path = machine-learning/intro-to-pytorch
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/machine-learning/intro-to-pytorch.git
+	url = git@github.com:Dartmouth-Libraries/intro-to-pytorch.git
 [submodule "infrastructure/distributed-computing-with-python-and-mpi"]
 	path = computational-tools/distributed-computing-with-python-and-mpi
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/computational-tools/distributed-computing-with-python-and-mpi.git
+	url = git@github.com:Dartmouth-Libraries/distributed-computing-with-python-and-mpi.git
 [submodule "infrastructure/intro-to-python"]
 	path = computational-tools/intro-to-python
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/computational-tools/intro-to-python.git
+	url = git@github.com:Dartmouth-Libraries/intro-to-python.git
 [submodule "infrastructure/classy-code"]
 	path = computational-tools/classy-code
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/computational-tools/classy-code.git
+	url = git@github.com:Dartmouth-Libraries/classy-code.git
 [submodule "data-science/gentle-intro-to-statistics"]
 	path = data-science/gentle-intro-to-statistics
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/data-science/gentle-intro-to-statistics.git
+	url = git@github.com:Dartmouth-Libraries/gentle-intro-to-statistics.git
 [submodule "machine-learning/gentle-intro-to-regression"]
 	path = machine-learning/gentle-intro-to-regression
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/machine-learning/gentle-intro-to-regression.git
+	url = git@github.com:Dartmouth-Libraries/gentle-intro-to-regression.git
 [submodule "machine-learning/gentle-intro-to-classification"]
 	path = machine-learning/gentle-intro-to-classification
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/machine-learning/gentle-intro-to-classification.git
+	url = git@github.com:Dartmouth-Libraries/gentle-intro-to-classification.git
 [submodule "infrastructure/jupyter-notebooks-101"]
 	path = computational-tools/jupyter-notebooks-101
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/computational-tools/jupyter-notebooks-101.git
+	url = git@github.com:Dartmouth-Libraries/jupyter-notebooks-101.git
 [submodule "apis-in-python"]
 	path = computational-tools/apis-in-python
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/computational-tools/apis-in-python.git
+	url = git@github.com:Dartmouth-Libraries/apis-in-python.git
 [submodule "text-analysis/chatty-documents"]
 	path = text-analysis/chatty-documents
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/text-analysis/chatty-documents.git
+	url = git@github.com:Dartmouth-Libraries/chatty-documents.git
 [submodule "text-analysis/computational-text-analysis-week"]
 	path = text-analysis/computational-text-analysis-week
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/text-analysis/computational-text-analysis-week.git
+	url = git@github.com:Dartmouth-Libraries/computational-text-analysis-week.git
 [submodule "computational-tools/data-viz-matplotlib"]
 	path = computational-tools/data-viz-matplotlib
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/computational-tools/data-viz-matplotlib.git
+	url = git@github.com:Dartmouth-Libraries/data-viz-matplotlib.git
 [submodule "computational-tools/data-viz-seaborn"]
 	path = computational-tools/data-viz-seaborn
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/computational-tools/data-viz-seaborn.git
+	url = git@github.com:Dartmouth-Libraries/data-viz-seaborn.git
 [submodule "computational-tools/beyond-hello-world"]
 	path = computational-tools/beyond-hello-world
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/computational-tools/beyond-hello-world.git
+	url = git@github.com:Dartmouth-Libraries/beyond-hello-world.git
 [submodule "data-science/bibliometrics"]
 	path = data-science/bibliometrics
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/data-science/bibliometrics-workshops.git
+	url = git@github.com:Dartmouth-Libraries/bibliometrics-workshops.git
