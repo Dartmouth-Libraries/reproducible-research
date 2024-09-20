@@ -1,0 +1,12 @@
+format: jb-book
+parts:
+- caption: Intro to Python
+  chapters:
+  - file: workshop-materials/computational-tools/fundamentals/intro-to-python/1a_Basics_standalone
+  - file: workshop-materials/computational-tools/fundamentals/intro-to-python/1b_Functions_Lists_and_Loops_standalone
+  - file: workshop-materials/computational-tools/fundamentals/intro-to-python/1c_Dataframes_standalone
+- caption: Jupyter Notebooks 101
+  chapters:
+  - file: workshop-materials/computational-tools/fundamentals/jupyter-notebooks-101/README.md
+  - file: workshop-materials/computational-tools/fundamentals/jupyter-notebooks-101/notebooks/01-demo.ipynb
+root: intro

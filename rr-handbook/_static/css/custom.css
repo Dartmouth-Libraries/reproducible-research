@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo:ital,wght@0,100..900;1,100..900&display=swap');
+
+html {
+    --pst-font-family-base-system: "sans-serif";
+    --pst-font-family-heading-system: "sans-serif";
+
+    --pst-font-family-base: "Archivo", var(--pst-font-family-base-system);
+    --pst-font-family-heading: "Anton", var(--pst-font-family-heading-system);
+}
+
+html[data-theme="light"] {
+    --pst-color-primary-bg: #f7f7f7;
+    --pst-color-info-bg: #c4dd88;
+    --pst-color-background: #fff;
+}
+
+html[data-theme="dark"] {
+    --pst-color-primary-bg: #12312b;
+    --pst-color-info-bg: #00693e;
+    --pst-color-background: #0D1E1C;
+    --pst-color-on-background: #12312b;
+}
