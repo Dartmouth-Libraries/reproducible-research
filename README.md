@@ -1,6 +1,6 @@
-# Reproducible Research 
+# Reproducible Research
 
-<img src="shared/RR-logo.png" alt="drawing" width="200" align="right"/>
+<img src="images/RR-logo.png" alt="drawing" width="200" align="right"/>
 
 Reproducible Research materials, provided by the Dartmouth Library and Dartmouth ITC.
 
@@ -33,7 +33,7 @@ git submodule add git@git.dartmouth.edu:my-data-science-workshop.git data-scienc
 ---
 **NOTE**
 
-When you update your materials in your own repo, the changes will not automagically propagate to this repository. **The link in here points to a particular state of your repo, frozen in time!** This is by design so you are free to work with your repo without affecting the public-facing materials in this one. 
+When you update your materials in your own repo, the changes will not automagically propagate to this repository. **The link in here points to a particular state of your repo, frozen in time!** This is by design so you are free to work with your repo without affecting the public-facing materials in this one.
 
 ---
 If you want to release an updated version of your materials, we have to update the submodule.
