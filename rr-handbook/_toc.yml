@@ -1,12 +1,39 @@
 format: jb-book
 parts:
-- caption: Intro to Python
+- caption: Computational Tools
   chapters:
-  - file: workshop-materials/computational-tools/fundamentals/intro-to-python/1a_Basics_standalone
-  - file: workshop-materials/computational-tools/fundamentals/intro-to-python/1b_Functions_Lists_and_Loops_standalone
-  - file: workshop-materials/computational-tools/fundamentals/intro-to-python/1c_Dataframes_standalone
-- caption: Jupyter Notebooks 101
+    - file: workshop-materials/computational-tools/fundamentals/README.md
+      sections:
+      - file: workshop-materials/computational-tools/fundamentals/jupyter-notebooks-101/notebooks/01-demo.ipynb
+      - file: workshop-materials/computational-tools/fundamentals/data-viz-matplotlib/notebooks/01-basics.ipynb
+        sections:
+        - file: workshop-materials/computational-tools/fundamentals/data-viz-matplotlib/notebooks/02-plot-overview.ipynb
+      - file: workshop-materials/computational-tools/fundamentals/data-viz-seaborn/README.md
+        sections:
+        - file: workshop-materials/computational-tools/fundamentals/data-viz-seaborn/notebooks/01-basics.ipynb
+    - file: workshop-materials/computational-tools/intermediate/README.md
+      sections:
+      - file: workshop-materials/computational-tools/intermediate/beyond-hello-world/README.md
+        sections:
+        - file: workshop-materials/computational-tools/intermediate/beyond-hello-world/notebooks/01-advanced-data-structures.ipynb
+        - file: workshop-materials/computational-tools/intermediate/beyond-hello-world/notebooks/02-comprehensions-and-generators.ipynb
+        - file: workshop-materials/computational-tools/intermediate/beyond-hello-world/notebooks/03-basic-functional-programming.ipynb
+      - file: workshop-materials/computational-tools/intermediate/apis-in-python/README.md
+        sections:
+        - file: workshop-materials/computational-tools/intermediate/apis-in-python/notebooks/01-restful_apis.ipynb
+        - file: workshop-materials/computational-tools/intermediate/apis-in-python/notebooks/02-python_requests.ipynb
+        - file: workshop-materials/computational-tools/intermediate/apis-in-python/notebooks/03-api_requests.ipynb
+        - file: workshop-materials/computational-tools/intermediate/apis-in-python/notebooks/04-api_documentation.ipynb
+        - file: workshop-materials/computational-tools/intermediate/apis-in-python/notebooks/05-python_wrapped_apis.ipynb
+        - file: workshop-materials/computational-tools/intermediate/apis-in-python/notebooks/06-covid_tracker_example.ipynb
+- caption: Data Science
   chapters:
-  - file: workshop-materials/computational-tools/fundamentals/jupyter-notebooks-101/README.md
-  - file: workshop-materials/computational-tools/fundamentals/jupyter-notebooks-101/notebooks/01-demo.ipynb
+    - file: workshop-materials/data-science/fundamentals/README.md
+      sections:
+      - file: workshop-materials/data-science/fundamentals/dirty-data/DirtyData_completed.ipynb
+    - file: workshop-materials/data-science/intermediate/README.md
+      sections:
+      - file: workshop-materials/data-science/intermediate/bibliometrics/scopus/notebooks/01_intro_to_Scopus_API.ipynb
+        sections:
+        - file: workshop-materials/data-science/intermediate/bibliometrics/scopus/notebooks/02_author-search-and-retrieval.ipynb
 root: intro

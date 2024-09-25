@@ -1,0 +1,256 @@
+wos_categs,count
+Environmental Sciences,9279
+Environmental Studies,7001
+"Engineering, Electrical & Electronic",6738
+Psychiatry,6182
+"Public, Environmental & Occupational Health",5139
+Ecology,4609
+"Psychology, Multidisciplinary",4085
+Green & Sustainable Science & Technology,3613
+"Computer Science, Information Systems",3417
+"Computer Science, Theory & Methods",3385
+Water Resources,3271
+"Engineering, Civil",3149
+Telecommunications,3017
+Management,2846
+"Geosciences, Multidisciplinary",2846
+"Psychology, Clinical",2671
+Education & Educational Research,2667
+Neurosciences,2465
+Economics,2356
+Meteorology & Atmospheric Sciences,2310
+Multidisciplinary Sciences,2293
+"Social Sciences, Interdisciplinary",2197
+Nursing,2192
+Geography,2172
+Social Work,2034
+"Computer Science, Hardware & Architecture",1762
+Urban Studies,1756
+"Psychology, Developmental",1718
+Energy & Fuels,1681
+Operations Research & Management Science,1638
+Psychology,1626
+Regional & Urban Planning,1622
+Family Studies,1602
+"Engineering, Industrial",1491
+Business,1465
+Marine & Freshwater Biology,1406
+Gerontology,1373
+Political Science,1359
+"Computer Science, Artificial Intelligence",1355
+"Computer Science, Software Engineering",1331
+Clinical Neurology,1316
+"Computer Science, Interdisciplinary Applications",1303
+Sociology,1252
+Plant Sciences,1216
+Health Care Sciences & Services,1195
+Construction & Building Technology,1178
+Forestry,1107
+"Psychology, Applied",1101
+"Engineering, Environmental",1087
+"Medicine, General & Internal",1086
+Biodiversity Conservation,1084
+Geriatrics & Gerontology,1044
+Pediatrics,1004
+International Relations,969
+"Materials Science, Multidisciplinary",963
+Development Studies,950
+"Psychology, Social",918
+Automation & Control Systems,911
+"Engineering, Multidisciplinary",889
+"Hospitality, Leisure, Sport & Tourism",878
+Health Policy & Services,870
+Area Studies,787
+Rehabilitation,779
+"Geography, Physical",717
+Food Science & Technology,697
+Transportation Science & Technology,678
+"Physics, Applied",668
+Pharmacology & Pharmacy,661
+Agronomy,657
+Biology,654
+Anthropology,641
+"Social Sciences, Biomedical",639
+Biochemistry & Molecular Biology,634
+Oncology,633
+Public Administration,626
+Oceanography,619
+"Business, Finance",610
+Optics,592
+Behavioral Sciences,590
+"Psychology, Educational",585
+Imaging Science & Photographic Technology,536
+"Engineering, Geological",518
+"Agriculture, Multidisciplinary",505
+Criminology & Penology,497
+Religion,496
+"Engineering, Manufacturing",495
+History,492
+Transportation,491
+"Chemistry, Multidisciplinary",486
+Communication,480
+Polymer Science,473
+Evolutionary Biology,460
+Architecture,455
+"Engineering, Chemical",445
+"Education, Scientific Disciplines",445
+"Mathematics, Applied",440
+Social Issues,436
+Microbiology,419
+Soil Science,397
+Law,395
+"Engineering, Mechanical",394
+"Mathematics, Interdisciplinary Applications",387
+Genetics & Heredity,377
+Information Science & Library Science,371
+Endocrinology & Metabolism,368
+Cell Biology,361
+Fisheries,358
+Women's Studies,350
+"Agriculture, Dairy & Animal Science",337
+Remote Sensing,335
+Sport Sciences,330
+Veterinary Sciences,320
+"Humanities, Multidisciplinary",308
+Nanoscience & Nanotechnology,300
+Ethnic Studies,294
+Surgery,293
+"Chemistry, Physical",292
+"Psychology, Experimental",279
+Biotechnology & Applied Microbiology,276
+"Physics, Multidisciplinary",271
+Substance Abuse,271
+"Education, Special",270
+Agricultural Economics & Policy,268
+Instruments & Instrumentation,267
+Zoology,266
+Immunology,246
+Archaeology,244
+"Medicine, Research & Experimental",241
+"Computer Science, Cybernetics",232
+"Social Sciences, Mathematical Methods",218
+Ergonomics,213
+Limnology,213
+Obstetrics & Gynecology,207
+Nutrition & Dietetics,204
+Demography,203
+"Physics, Condensed Matter",200
+Respiratory System,190
+Physiology,185
+Cultural Studies,185
+"Chemistry, Applied",181
+Robotics,179
+Infectious Diseases,176
+Critical Care Medicine,168
+Toxicology,164
+Cardiac & Cardiovascular Systems,159
+Industrial Relations & Labor,157
+Linguistics,152
+"Psychology, Biological",152
+Medical Informatics,150
+"Dentistry, Oral Surgery & Medicine",146
+"Radiology, Nuclear Medicine & Medical Imaging",145
+"Engineering, Biomedical",145
+"Materials Science, Textiles",144
+Mathematical & Computational Biology,140
+Ethics,136
+Literature,136
+Emergency Medicine,130
+Mathematics,125
+Language & Linguistics,120
+Primary Health Care,119
+Metallurgy & Metallurgical Engineering,118
+"Psychology, Psychoanalysis",117
+Mechanics,116
+Philosophy,113
+"Engineering, Aerospace",112
+"Engineering, Ocean",110
+"Physics, Mathematical",110
+"Chemistry, Analytical",109
+Parasitology,106
+Anesthesiology,106
+History & Philosophy Of Science,104
+Integrative & Complementary Medicine,102
+Agricultural Engineering,98
+"Physics, Atomic, Molecular & Chemical",97
+Horticulture,96
+Hematology,95
+"Engineering, Marine",94
+Thermodynamics,93
+Nuclear Science & Technology,92
+Orthopedics,91
+Acoustics,91
+Gastroenterology & Hepatology,90
+Urology & Nephrology,88
+Entomology,86
+Geochemistry & Geophysics,86
+"Physics, Fluids & Plasmas",84
+History Of Social Sciences,83
+"Materials Science, Biomaterials",83
+"Materials Science, Composites",83
+Art,82
+Asian Studies,81
+Biochemical Research Methods,77
+Biophysics,76
+Tropical Medicine,76
+Statistics & Probability,74
+"Materials Science, Characterization & Testing",71
+Music,67
+Rheumatology,63
+Geology,61
+Developmental Biology,60
+Theater,59
+Dermatology,59
+Peripheral Vascular Disease,58
+Literary Theory & Criticism,48
+Neuroimaging,48
+"Chemistry, Medicinal",48
+Transplantation,45
+Reproductive Biology,43
+Astronomy & Astrophysics,42
+Electrochemistry,41
+Virology,41
+"Film, Radio, Television",38
+Ophthalmology,37
+Audiology & Speech-Language Pathology,36
+Pathology,34
+Paleontology,34
+"Chemistry, Organic",34
+"Materials Science, Ceramics",32
+Otorhinolaryngology,31
+"Literature, Romance",30
+Medical Ethics,30
+Ornithology,29
+"Materials Science, Coatings & Films",28
+Quantum Science & Technology,27
+"Engineering, Petroleum",27
+Mining & Mineral Processing,27
+Mycology,26
+Allergy,25
+"Medicine, Legal",23
+Medieval & Renaissance Studies,21
+Spectroscopy,19
+Literary Reviews,19
+"Chemistry, Inorganic & Nuclear",18
+Folklore,17
+"Materials Science, Paper & Wood",17
+"Physics, Particles & Fields",16
+"Psychology, Mathematical",16
+Medical Laboratory Technology,16
+"Physics, Nuclear",14
+Anatomy & Morphology,14
+"Literature, African, Australian, Canadian",13
+Mineralogy,12
+Cell & Tissue Engineering,12
+Logic,12
+Crystallography,11
+"Literature, American",11
+Dance,11
+"Literature, British Isles",10
+Classics,10
+Microscopy,5
+Poetry,5
+"Literature, Slavic",3
+"Literature, German, Dutch, Scandinavian",2
+Andrology,2
+Environmental Sciences & Ecology,1
