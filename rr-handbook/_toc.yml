@@ -1,12 +1,77 @@
 format: jb-book
 parts:
-- caption: Intro to Python
+- caption: Practicing Reproducibility
   chapters:
-  - file: workshop-materials/computational-tools/fundamentals/intro-to-python/1a_Basics_standalone
-  - file: workshop-materials/computational-tools/fundamentals/intro-to-python/1b_Functions_Lists_and_Loops_standalone
-  - file: workshop-materials/computational-tools/fundamentals/intro-to-python/1c_Dataframes_standalone
-- caption: Jupyter Notebooks 101
+  - file: editorial-content/practicing-reproducibility/principles-of-rr-and-os
+  - file: editorial-content/practicing-reproducibility/organization/intro
+    sections:
+    - file: editorial-content/practicing-reproducibility/organization/project-setup
+    - file: editorial-content/practicing-reproducibility/organization/file-organization
+    - file: editorial-content/practicing-reproducibility/organization/file-naming
+    - file: editorial-content/practicing-reproducibility/organization/file-formats
+    - file: editorial-content/practicing-reproducibility/organization/file-management-systems
+    - file: editorial-content/practicing-reproducibility/organization/storage
+    - file: editorial-content/practicing-reproducibility/organization/access-and-sharing
+    - file: editorial-content/practicing-reproducibility/organization/collaboration
+    - file: editorial-content/practicing-reproducibility/organization/dmp
+  - file: editorial-content/practicing-reproducibility/documentation/intro
+    sections:
+    - file: editorial-content/practicing-reproducibility/documentation/readmes
+    - file: editorial-content/practicing-reproducibility/documentation/data-dictionaries
+    - file: editorial-content/practicing-reproducibility/documentation/metadata
+    - file: editorial-content/practicing-reproducibility/documentation/note-taking
+    - file: editorial-content/practicing-reproducibility/documentation/code-documentation
+    - file: editorial-content/practicing-reproducibility/documentation/standards
+    - file: editorial-content/practicing-reproducibility/documentation/licenses
+    - file: editorial-content/practicing-reproducibility/documentation/citation
+  - file: editorial-content/practicing-reproducibility/automation/intro
+    sections:
+    - file: editorial-content/practicing-reproducibility/automation/acquisition-processing-analysis
+    - file: editorial-content/practicing-reproducibility/automation/programming-and-scripting
+    - file: editorial-content/practicing-reproducibility/automation/high-performance-computing
+    - file: editorial-content/practicing-reproducibility/automation/reproducible-environments/intro
+      sections:
+        - file: editorial-content/practicing-reproducibility/automation/reproducible-environments/containers
+        - file: editorial-content/practicing-reproducibility/automation/reproducible-environments/virtual-machines
+    - file: editorial-content/practicing-reproducibility/automation/computational-notebooks
+    - file: editorial-content/practicing-reproducibility/automation/version-control
+    - file: editorial-content/practicing-reproducibility/automation/workflows-and-pipelines
+    - file: editorial-content/practicing-reproducibility/automation/tools
+    - file: editorial-content/practicing-reproducibility/automation/data-visualization
+    - file: editorial-content/practicing-reproducibility/automation/open-science
+    - file: editorial-content/practicing-reproducibility/automation/apis
+    - file: editorial-content/practicing-reproducibility/automation/electronic-lab-notebooks
+  - file: editorial-content/practicing-reproducibility/dissemination/intro
+    sections:
+    - file: editorial-content/practicing-reproducibility/dissemination/assessing-reproducibility
+    - file: editorial-content/practicing-reproducibility/dissemination/archive-and-preservation
+    - file: editorial-content/practicing-reproducibility/dissemination/making-code-available
+    - file: editorial-content/practicing-reproducibility/dissemination/making-data-available/intro
+      sections:
+      - file: editorial-content/practicing-reproducibility/dissemination/making-data-available/data-repositories
+      - file: editorial-content/practicing-reproducibility/dissemination/making-data-available/finding-repositories
+      - file: editorial-content/practicing-reproducibility/dissemination/making-data-available/hosted-repositories
+    - file: editorial-content/practicing-reproducibility/dissemination/latex-overleaf
+    - file: editorial-content/practicing-reproducibility/dissemination/public-access
+- caption: Data Science Methods
   chapters:
-  - file: workshop-materials/computational-tools/fundamentals/jupyter-notebooks-101/README.md
-  - file: workshop-materials/computational-tools/fundamentals/jupyter-notebooks-101/notebooks/01-demo.ipynb
-root: intro
+  - file: editorial-content/data-science-methods/intro
+- caption: Computational Tools
+  chapters:
+  - file: editorial-content/foundational
+    sections:
+    - file: workshop-materials/computational-tools/intro-to-python/1a_Basics_standalone
+    - file: workshop-materials/computational-tools/jupyter-notebooks-101/README
+  - file: editorial-content/intermediate
+    sections:
+    - file: workshop-materials/computational-tools/beyond-hello-world/README
+    - file: workshop-materials/computational-tools/classy-code/README
+    - file: workshop-materials/computational-tools/data-viz-matplotlib/README
+    - file: workshop-materials/computational-tools/data-viz-seaborn/README
+    - file: workshop-materials/computational-tools/apis-in-python/README
+  - file: editorial-content/advanced
+    sections:
+    - file: workshop-materials/computational-tools/distributed-computing-with-python-and-mpi/README
+
+
+root: editorial-content/intro
