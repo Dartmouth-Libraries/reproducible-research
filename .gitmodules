@@ -52,3 +52,6 @@
 [submodule "data-science/bibliometrics"]
 	path = data-science/bibliometrics
 	url = git@github.com:Dartmouth-Libraries/bibliometrics-workshops.git
+[submodule "computational-tools/data-viz-r"]
+	path = computational-tools/data-viz-r
+	url = git@github.com:Dartmouth-Libraries/data-viz-r.git
