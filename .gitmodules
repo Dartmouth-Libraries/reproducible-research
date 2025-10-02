@@ -55,3 +55,6 @@
 [submodule "computational-tools/data-viz-r"]
 	path = computational-tools/data-viz-r
 	url = git@github.com:Dartmouth-Libraries/data-viz-r.git
+[submodule "foundations-of-ai"]
+	path = foundations-of-ai
+	url = https://github.com/Dartmouth-Libraries/foundations-of-ai-workshop.git
