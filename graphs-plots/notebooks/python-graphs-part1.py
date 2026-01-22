@@ -54,3 +54,26 @@ sns.scatterplot(
 
 plt.show()
 
+##
+
+#Some common plot types: 
+
+#Distribution Plot / Histogram 
+
+#Joint Plot
+
+#KDE Plot
+
+#Pair Plot 
+
+#Box Plot / Box and whisker plot 
+
+#Violin Plot 
+
+#Strip Plot 
+
+#Swarm Plot 
+
+#Matrix Plots 
+
+#Heatmaps 
