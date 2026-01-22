@@ -77,3 +77,24 @@ plt.show()
 #Matrix Plots 
 
 #Heatmaps 
+
+penguins_upload = pd.read_csv("penguins_export.csv")
+
+# Seaborn’s stripplot shows every individual observation.
+sns.stripplot(
+    data=penguins_upload,
+    x="species",
+    y="body_mass_g",
+    jitter=True,                 # spreads points a little for readability
+    palette=["#1f77b4", "#ff7f0e", "#2ca02c"],  # blue, orange, green
+    size=8,
+    edgecolor="gray",
+    linewidth=0.5,
+)
+
+plt.title("Penguin Body Mass by Species")
+plt.ylabel("Body mass (g)")
+plt.xlabel("Species")
+plt.grid(axis="y", linestyle="--", alpha=0.6)
+plt.tight_layout()
+plt.show()
