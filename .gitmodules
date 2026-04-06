@@ -58,3 +58,6 @@
 [submodule "foundations-of-ai"]
 	path = foundations-of-ai
 	url = https://github.com/Dartmouth-Libraries/foundations-of-ai-workshop.git
+[submodule "computational-tools/py-essentials_ws"]
+	path = computational-tools/py-essentials_ws
+	url = git@github.com:Dartmouth-Libraries/py-essentials_ws.git
